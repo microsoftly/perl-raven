@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrosoftly%2Fperl-raven.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrosoftly%2Fperl-raven?ref=badge_shield)
+
 Sentry::Raven version 1.13
 
 Sentry::Raven is a module for sending events to a sentry service.
@@ -26,3 +28,7 @@ COPYRIGHT AND LICENSE
 Copyright (C) 2019 by Matt Harrington
 
 The full text of this license can be found in the LICENSE file included with this module.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmicrosoftly%2Fperl-raven.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmicrosoftly%2Fperl-raven?ref=badge_large)
